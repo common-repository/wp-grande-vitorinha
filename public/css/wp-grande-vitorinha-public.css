@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'GrandeVitorinha';
+  src: url('../fonts/grande_vitorinha.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/grande_vitorinha.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/grande_vitorinha.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/grande_vitorinha.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/grande_vitorinha.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+.vitorinha {
+  font-family: 'GrandeVitorinha', sans-serif;
+}
